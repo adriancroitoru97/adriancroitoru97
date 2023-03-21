@@ -19,8 +19,9 @@ Here are some ideas to get you started:
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=adriancroitoru97)](https://git.io/streak-stats)
 
+<!-- https://github.com/tandpfun/skill-icons -->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,c,spring" />
+    <img src="https://skillicons.dev/icons?i=java,c,cpp,spring,docker,github,linux,html,css,js" />
   </a>
 </p>
