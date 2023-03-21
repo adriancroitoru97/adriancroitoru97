@@ -18,3 +18,5 @@ Here are some ideas to get you started:
 <!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=adriancroitoru97)](https://github.com/anuraghazra/github-readme-stats) -->
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=adriancroitoru97)](https://git.io/streak-stats)
+
+[![My Skills](https://skillicons.dev/icons?i=java,c,c++,spring)](https://skillicons.dev)
