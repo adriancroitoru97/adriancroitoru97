@@ -19,4 +19,8 @@ Here are some ideas to get you started:
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=adriancroitoru97)](https://git.io/streak-stats)
 
-[![My Skills](https://skillicons.dev/icons?i=java,c,c++,spring)](https://skillicons.dev)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,c,spring" />
+  </a>
+</p>
