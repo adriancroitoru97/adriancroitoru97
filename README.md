@@ -13,11 +13,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=adriancroitoru97)](https://git.io/streak-stats)
 <p align="center">
     <img src="https://streak-stats.demolab.com/?user=adriancroitoru97" />
 </p>
   
-[![GitHub Streak](https://streak-stats.demolab.com/?user=adriancroitoru97)](https://git.io/streak-stats)
 
 <!-- https://github.com/tandpfun/skill-icons -->
 <p align="center">
